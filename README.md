@@ -1,9 +1,9 @@
 # 100-Push-Project
-This is my personal project to push code for 100 projects in Python
+This is my personal project to push code for 100 projects in various categories in Python
 I have started this project to improve my Python programming skills and also to get well aversed with the version control.
 Here is the original repository from where I have forked the [Project List](https://github.com/karan/Projects)
 
-## List of Projects:
+## Numbers:
 
 1. [Find PI to the Nth Digit](https://github.com/varunu28/100-Push-Project/blob/master/pi_to_n.py)
 2. [Find e to the Nth Digit](https://github.com/varunu28/100-Push-Project/blob/master/e_to_n.py)
